@@ -3,4 +3,4 @@ Example for an app version control (check,download,and update) build with kotlin
 
 Now, the app can make an notification if update available.
 
-For the API you can get from this [getUpdateKt.php](https://github.com/MakesMeInspire/android-version-updater/tree/master/API/)
+For the API available from this [getUpdateKt.php](https://github.com/MakesMeInspire/android-version-updater/tree/master/API/) file
